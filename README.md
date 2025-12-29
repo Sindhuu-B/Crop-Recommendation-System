@@ -1,5 +1,5 @@
 # Crop-Recommendation-System
-Recommending Suitable crops to grow on the soil based on its temperature,pH and humidity.This can help farmers choose better option.
+Recommends Suitable crops to grow on the soil based on its temperature,pH and humidity.This can help farmers choose better option.
 
  Crop Recommendation System:
 This project is a machine learning-based Crop Recommendation System that helps farmers and agricultural enthusiasts choose the most suitable crop to grow based on various environmental conditions such as soil pH, temperature, humidity.
